@@ -1,1 +1,2 @@
 Hi changing the file in workdirectory
+adding second line
