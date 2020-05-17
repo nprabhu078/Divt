@@ -1,4 +1,0 @@
-Hi changing the file in workdirectory
-adding second line
-3rd line
-4th line
